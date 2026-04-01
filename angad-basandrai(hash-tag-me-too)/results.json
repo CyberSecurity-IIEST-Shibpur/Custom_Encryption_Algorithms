@@ -1,0 +1,22 @@
+{
+    "1": {
+        "samples": 25,
+        "average_time_seconds": 0.00077832
+    },
+    "2": {
+        "samples": 25,
+        "average_time_seconds": 0.0215944
+    },
+    "3": {
+        "samples": 25,
+        "average_time_seconds": 0.46455275999999995
+    },
+    "4": {
+        "samples": 25,
+        "average_time_seconds": 17.15013764
+    },
+    "5": {
+        "samples": 25,
+        "average_time_seconds": 534.53534596
+    }
+}
